@@ -4,7 +4,7 @@ Author: Noel Ashford
 
 ## Overview
 
-This project performs parallel computation to find all prime numbers within a specified range using a Slurm cluster. The computation is distributed across multiple nodes and cores to efficiently utilize available resources.
+This project performs parallel computation to find all prime numbers within a specified range using a Slurm cluster. The computation is distributed across multiple nodes and cores to efficiently utilize available resources via chunking workloads.
 
 ## Contents
 
