@@ -73,8 +73,8 @@ sbatch prime_batch.sh
 Use `squeue` to monitor the job status.
 
 ```bash
-squeue -u \$USER
-or
+squeue -u <user-id>
+
 squeue -j <job-id>
 ```
 
