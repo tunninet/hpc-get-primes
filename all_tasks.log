@@ -1,0 +1,256 @@
+Node: 5net
+Core: 4
+Range: 1 to 15625
+Duration: 0 seconds
+Node: 5net
+Core: 12
+Range: 15626 to 31250
+Duration: 0 seconds
+Node: 5net
+Core: 15
+Range: 31251 to 46875
+Duration: 0 seconds
+Node: 5net
+Core: 10
+Range: 46876 to 62500
+Duration: 0 seconds
+Node: 5net
+Core: 6
+Range: 62501 to 78125
+Duration: 0 seconds
+Node: 5net
+Core: 8
+Range: 78126 to 93750
+Duration: 0 seconds
+Node: 5net
+Core: 6
+Range: 93751 to 109375
+Duration: 0 seconds
+Node: 5net
+Core: 3
+Range: 109376 to 125000
+Duration: 0 seconds
+Node: 5net
+Core: 11
+Range: 125001 to 140625
+Duration: 0 seconds
+Node: 5net
+Core: 15
+Range: 140626 to 156250
+Duration: 0 seconds
+Node: 5net
+Core: 4
+Range: 156251 to 171875
+Duration: 0 seconds
+Node: 5net
+Core: 9
+Range: 171876 to 187500
+Duration: 0 seconds
+Node: 5net
+Core: 10
+Range: 187501 to 203125
+Duration: 0 seconds
+Node: 5net
+Core: 2
+Range: 203126 to 218750
+Duration: 0 seconds
+Node: 5net
+Core: 1
+Range: 218751 to 234375
+Duration: 0 seconds
+Node: 5net
+Core: 6
+Range: 234376 to 250000
+Duration: 0 seconds
+Node: 8net
+Core: 2
+Range: 250001 to 265625
+Duration: 0 seconds
+Node: 8net
+Core: 7
+Range: 265626 to 281250
+Duration: 0 seconds
+Node: 8net
+Core: 3
+Range: 281251 to 296875
+Duration: 0 seconds
+Node: 8net
+Core: 8
+Range: 296876 to 312500
+Duration: 0 seconds
+Node: 8net
+Core: 10
+Range: 312501 to 328125
+Duration: 0 seconds
+Node: 8net
+Core: 6
+Range: 328126 to 343750
+Duration: 0 seconds
+Node: 8net
+Core: 5
+Range: 343751 to 359375
+Duration: 0 seconds
+Node: 8net
+Core: 15
+Range: 359376 to 375000
+Duration: 0 seconds
+Node: 8net
+Core: 1
+Range: 375001 to 390625
+Duration: 0 seconds
+Node: 8net
+Core: 9
+Range: 390626 to 406250
+Duration: 0 seconds
+Node: 8net
+Core: 3
+Range: 406251 to 421875
+Duration: 0 seconds
+Node: 8net
+Core: 14
+Range: 421876 to 437500
+Duration: 0 seconds
+Node: 8net
+Core: 11
+Range: 437501 to 453125
+Duration: 0 seconds
+Node: 8net
+Core: 13
+Range: 453126 to 468750
+Duration: 0 seconds
+Node: 8net
+Core: 12
+Range: 468751 to 484375
+Duration: 0 seconds
+Node: 8net
+Core: 0
+Range: 484376 to 500000
+Duration: 0 seconds
+Node: 9net
+Core: 9
+Range: 500001 to 515625
+Duration: 1 seconds
+Node: 9net
+Core: 10
+Range: 515626 to 531250
+Duration: 1 seconds
+Node: 9net
+Core: 9
+Range: 531251 to 546875
+Duration: 1 seconds
+Node: 9net
+Core: 6
+Range: 546876 to 562500
+Duration: 2 seconds
+Node: 9net
+Core: 7
+Range: 562501 to 578125
+Duration: 2 seconds
+Node: 9net
+Core: 7
+Range: 578126 to 593750
+Duration: 2 seconds
+Node: 9net
+Core: 10
+Range: 593751 to 609375
+Duration: 2 seconds
+Node: 9net
+Core: 5
+Range: 609376 to 625000
+Duration: 2 seconds
+Node: 9net
+Core: 11
+Range: 625001 to 640625
+Duration: 2 seconds
+Node: 9net
+Core: 12
+Range: 640626 to 656250
+Duration: 2 seconds
+Node: 9net
+Core: 8
+Range: 656251 to 671875
+Duration: 2 seconds
+Node: 9net
+Core: 4
+Range: 671876 to 687500
+Duration: 2 seconds
+Node: 9net
+Core: 15
+Range: 687501 to 703125
+Duration: 2 seconds
+Node: 9net
+Core: 8
+Range: 703126 to 718750
+Duration: 1 seconds
+Node: 9net
+Core: 14
+Range: 718751 to 734375
+Duration: 2 seconds
+Node: 9net
+Core: 12
+Range: 734376 to 750000
+Duration: 2 seconds
+Node: 55net
+Core: 15
+Range: 750001 to 765625
+Duration: 0 seconds
+Node: 55net
+Core: 4
+Range: 765626 to 781250
+Duration: 0 seconds
+Node: 55net
+Core: 12
+Range: 781251 to 796875
+Duration: 0 seconds
+Node: 55net
+Core: 6
+Range: 796876 to 812500
+Duration: 0 seconds
+Node: 55net
+Core: 13
+Range: 812501 to 828125
+Duration: 0 seconds
+Node: 55net
+Core: 0
+Range: 828126 to 843750
+Duration: 0 seconds
+Node: 55net
+Core: 3
+Range: 843751 to 859375
+Duration: 0 seconds
+Node: 55net
+Core: 1
+Range: 859376 to 875000
+Duration: 0 seconds
+Node: 55net
+Core: 15
+Range: 875001 to 890625
+Duration: 1 seconds
+Node: 55net
+Core: 5
+Range: 890626 to 906250
+Duration: 0 seconds
+Node: 55net
+Core: 6
+Range: 906251 to 921875
+Duration: 0 seconds
+Node: 55net
+Core: 7
+Range: 921876 to 937500
+Duration: 0 seconds
+Node: 55net
+Core: 11
+Range: 937501 to 953125
+Duration: 0 seconds
+Node: 55net
+Core: 10
+Range: 953126 to 968750
+Duration: 0 seconds
+Node: 55net
+Core: 10
+Range: 968751 to 984375
+Duration: 0 seconds
+Node: 55net
+Core: 2
+Range: 984376 to 1000000
+Duration: 0 seconds

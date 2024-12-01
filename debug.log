@@ -1,0 +1,2 @@
+START=1, END=1000000, SLURM_NTASKS=64, CHUNK_SIZE=15625, REMAINDER=0
+Prime number search completed. Results in all_primes.txt. Task mapping in all_tasks.log
